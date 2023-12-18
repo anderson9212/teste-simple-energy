@@ -11,7 +11,7 @@ O web scraper foi implementado em Python usando as bibliotecas `requests`, `Beau
 1. Crie um arquivo .env na raiz do seu projeto com as seguintes variáveis:
     ```
     URL=https://simpleenergy.com.br/teste
-    CODIGOS=321465,98465
+    CODES=321465,98465
     USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
     ```
 2. Instale as dependências do projeto com o comando `pip install -r requirements.txt`.
